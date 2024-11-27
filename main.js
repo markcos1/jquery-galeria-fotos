@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $('header-button').click(function(){
+    $('#botao-nova-imagem').click(function(){
         $('form').slideDown();
     })
 
